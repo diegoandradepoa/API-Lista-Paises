@@ -1,4 +1,4 @@
-# diegoandradepoa-API-Lista-Paises
+# API-Lista-Paises
 
 Este projeto é uma API para cadastro de paises e seus continentes.
 
